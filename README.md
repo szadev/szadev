@@ -1,6 +1,6 @@
 ### Hi 👋
 
-.NET developer. I build backend services, desktop tools and bots in C#.
+Developer working with .NET and Flutter. I build backend services, cross-platform mobile apps (Flutter, native iOS), desktop tools and bots.
 
 **Stack**
 
@@ -8,6 +8,11 @@
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=flat&logo=blazor&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
+![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_bots-26A5E4?style=flat&logo=telegram&logoColor=white)
 
