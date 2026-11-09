@@ -13,6 +13,7 @@ Developer working with .NET and Flutter. I build backend services, cross-platfor
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat&logo=swift&logoColor=white)
 ![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=apple&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-34A853?style=flat&logo=android&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat&logo=unity&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Telegram](https://img.shields.io/badge/Telegram_bots-26A5E4?style=flat&logo=telegram&logoColor=white)
 
@@ -20,5 +21,6 @@ Developer working with .NET and Flutter. I build backend services, cross-platfor
 
 | Project | What it does | Tech |
 |---|---|---|
+| [Myrtana](https://github.com/szadev/Myrtana) | Open-source Gothic 3 engine on Unity 6 with an optional remaster; reads the player's own game files, one script builds the game | C#, Unity 6 (URP), Python, Blender |
 | [MouseMover](https://github.com/szadev/MouseMover) | Keeps a Windows session active with tiny mouse moves; tray mode, multi-monitor | C#, WinForms, .NET Framework 4.8 |
 | [LeetCodeTasks](https://github.com/szadev/LeetCodeTasks) | LeetCode solutions with unit tests | C#, xUnit |
